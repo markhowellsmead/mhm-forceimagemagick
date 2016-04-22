@@ -2,7 +2,7 @@
 /*
 Plugin Name: Force ImageMagick
 Plugin URI: https://github.com/mhmli/mhm-forceimagemagick/
-Description: Forces WordPress to use ImageMagick instead of the PHP GD image library. This allows EXIF data to be retained, amongst other things.
+Description: Forces WordPress to use ImageMagick instead of the PHP GD image library. This allows EXIF and IPTC data to be retained - for example, those containing GEO data and copyright information - but can lead to slightly larger file sizes.
 Author: Mark Howells-Mead
 Version: 1.0
 Author URI: http://permanenttourist.ch/
